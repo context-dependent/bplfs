@@ -3,3 +3,5 @@
 .Rdata
 .httr-oauth
 .DS_Store
+local/
+data-raw/20*
