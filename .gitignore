@@ -4,4 +4,4 @@
 .httr-oauth
 .DS_Store
 local/
-data-raw/20*
+data-raw/
